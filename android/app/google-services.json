@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "809732913368",
+    "project_id": "firebase-noti-naymyomhan",
+    "storage_bucket": "firebase-noti-naymyomhan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809732913368:android:cf87820e7ef330b618bfad",
+        "android_client_info": {
+          "package_name": "com.example.firebase_noti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1Pc2fbGyw8RE-pEZlZUY7CpiaMmdW5kY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
